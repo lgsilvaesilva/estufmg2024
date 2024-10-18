@@ -103,18 +103,6 @@ background-size: cover
 
 # .large[.fancy[Passeio Aleatório <br> de um Estatístico]]
 
-
----
-name: linha_tempo
-class: left, middle
-background-color: #f3f3f3ff
-
-# .fancy[.saltinline[Linha do tempo]]
-
-.center[
-<img src="img/trajetoria.svg" width="95%" align="center"/>
-]
-
 ---
 class: left, middle, inverse
 
@@ -202,17 +190,6 @@ class: left, middle, bg_brain,inverse
 
 + .fancy[.saltinline[Colaboração]]
 
-]
-
----
-name: linha_tempo2
-class: left, middle
-background-color: #f3f3f3ff
-
-# .fancy[.saltinline[Linha do tempo]]
-
-.center[
-<img src="img/trajetoria.svg" width="95%" align="center"/>
 ]
 
 ---
@@ -380,17 +357,6 @@ class: left, middle, bg_brain,inverse
 
 + Escrita
 
-]
-
----
-name: linha_tempo3
-class: left, middle
-background-color: #f3f3f3ff
-
-# .fancy[.saltinline[Linha do tempo]]
-
-.center[
-<img src="img/trajetoria.svg" width="95%" align="center"/>
 ]
 
 ---
@@ -697,27 +663,27 @@ class: left, middle, inverse
 <img src="img/oqueafaofaz.png" width="80%" align="center" style="border-radius: 0%;"/>
 ]
 
----
-class: left, middle, inverse
+<!-- --- -->
+<!-- class: left, middle, inverse -->
 
-## .fancy[.salt[Como entrei na FAO?]]
+<!-- ## .fancy[.salt[Como entrei na FAO?]] -->
 
---
+<!-- -- -->
 
-1. Um amigo que trabalha na FAO me contou sobre uma vaga para estatístico <a href="https://twitter.com/vidigal_br?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @vidigal_br</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<!-- 1. Um amigo que trabalha na FAO me contou sobre uma vaga para estatístico <a href="https://twitter.com/vidigal_br?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @vidigal_br</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
-2. Submissão do CV para candidatura
+<!-- 2. Submissão do CV para candidatura -->
 
-3. Entrevista I
-  + .fancy[.heatinline[hard skills]]
-  + Falar sobre as experiências acadêmicas e profissionais
-  
-4. Teste de estatística, programação em R: 72 horas para entregar o relatório.
+<!-- 3. Entrevista I -->
+<!--   + .fancy[.heatinline[hard skills]] -->
+<!--   + Falar sobre as experiências acadêmicas e profissionais -->
 
-5. Entrevista II
-  + .fancy[.saltinline[soft skills]]
-  + "Descreva uma situação em que você teve algum conflito profissional"
-  + "Como fez para resolvê-lo?"
+<!-- 4. Teste de estatística, programação em R: 72 horas para entregar o relatório. -->
+
+<!-- 5. Entrevista II -->
+<!--   + .fancy[.saltinline[soft skills]] -->
+<!--   + "Descreva uma situação em que você teve algum conflito profissional" -->
+<!--   + "Como fez para resolvê-lo?" -->
 
 ---
 class: left, top, inverse
