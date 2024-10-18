@@ -1,2 +1,3 @@
-# dataviz2020
-Introduction to Data Visualization for Data Scientist
+## Palestra alunos UFMG 2024
+
+Palestra para os alunos de estatística da UFMG sobre carreira e possibilidades.
